@@ -1,0 +1,62 @@
+
+      .teksLayout{
+        text-align: justify;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .posisi_atas{
+        margin-top: 20px;
+    }
+    .ContFooter{
+      width: 100%;
+      height: 340px;
+      margin-top: 35px;
+      color: #fff;
+      background-color: #212121;      
+    }
+    .Footer{
+      width: 90%;
+      height: 270px;
+      margin-top: 35px;
+      color: #fff;
+      display: flex;
+      justify-content: space-around;
+      margin: auto;
+      text-align: center;
+    }
+    .footerBox{
+      width: 300px;
+      height: 210px;
+      margin-top: 30px;
+      border: solid grey 1.5px;
+      border-radius: 10px;
+    }
+    .texs__center{
+      text-align: center;
+      margin-top: 15px;
+      margin-bottom: 15px;
+    }
+    .copyRight{
+      width: 95%;
+      height: 55px;
+      border-top: solid grey 1.5px;
+      margin: auto;
+      text-align: center;
+    }
+    .copyRight p{
+      margin-top: 22px;
+      font-weight: bold;
+      font-size: 18px;
+    }
+    .IconBox2{
+      font-size: 20px;
+      margin-left: 5px;
+    }
+    .BoxHref{
+        font-size: 17px;
+        text-decoration: none;
+        color: #00b0ff;
+    }
+    .BoxHref:hover{
+        color: #fff;
+    }
